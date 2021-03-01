@@ -8,10 +8,12 @@ body {
 
 h1 {
     text-align: center;
+    margin: 30px auto;
 }
 
 h2,h3 {
     text-align: center;
+    margin: 30px auto;
 }
 
 .box{
