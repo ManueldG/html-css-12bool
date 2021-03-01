@@ -6,6 +6,14 @@ body {
     background-image: linear-gradient(45deg,rgb(189, 84, 171),rgb(96, 5, 124));
 }
 
+h1 {
+    text-align: center;
+}
+
+h2,h3 {
+    text-align: center;
+}
+
 .box{
     background-color:aliceblue;    
     text-align: center;
