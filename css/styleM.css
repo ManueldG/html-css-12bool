@@ -9,6 +9,11 @@ body {
     background-color: #010101;
     position: relative;
 }
+.container
+{
+   width: 300px; 
+}
+
 
 h1 {
     text-align: center;
@@ -21,16 +26,15 @@ h2,h3 {
 }
 
 [class*="col-"] {
+    height: 25px;
     padding-left: 0;
     padding-right: 0;
 }
 
 .box{
-    
     background-color: transparent;    
     text-align: center;
-    padding: 20px;
-    
+    padding: 20px;    
 }
 
 .red {
@@ -55,6 +59,6 @@ h2,h3 {
 
 .container {
     position:absolute;
-    bottom:115px;
-    left: 313px;
+    bottom: 37px;
+    left: 226px;
 }

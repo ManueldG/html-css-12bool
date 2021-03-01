@@ -6,7 +6,7 @@
 
 
 .container {
-    max-width: 1170px;
+    
     margin: 0 auto;
 }
 
@@ -202,7 +202,7 @@
 }
 
 .offset-4 {
-    width: calc(100% / 3);
+    margin-left: calc(100% / 3);
 }
 
 .offset-3 {
