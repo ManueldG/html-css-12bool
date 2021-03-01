@@ -1,0 +1,60 @@
+body {
+    min-height: 100vh;
+    color: #222;
+    font-family:sans-serif;
+    background-image: url('../img/SMB-800x532.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    background-color: #010101;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px auto;
+}
+
+h2,h3 {
+    text-align: center;
+    margin: 30px auto;
+}
+
+[class*="col-"] {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.box{
+    
+    background-color: transparent;    
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.red {
+    background-color:#ed1b24;
+}
+
+.blue {
+    background-color:#0001fc;
+}
+
+.hair {
+    background-color:#643201;
+}
+
+.skin {
+    background-color:#ffc20f;
+}
+
+.eyes {
+    background-color: #000100;
+}
+
+.container {
+    position:absolute;
+    bottom:115px;
+    left: 313px;
+}
